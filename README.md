@@ -28,6 +28,6 @@ About me:
 <p><i>Note: This is just a general breakdown, it doesn't reflect my strength or weaknesses.</i></p>
 <!-- Stats Dashboard -->
 <p align = "center">
- <img align="start" src="https://github-readme-stats.vercel.app/api?username=ishanknijhawan&include_all_commits=true&theme=gruvbox&show_icons=true" />
+ <img src="https://github-readme-stats.vercel.app/api?username=vibhusharma101&include_all_commits=true&theme=gruvbox&show_icons=true" />
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=vibhusharma101&langs_count=11&hide=jupyter%20notebook,scss,html,css,shell&theme=dracula">
 </p>
