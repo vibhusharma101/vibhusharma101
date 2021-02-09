@@ -3,9 +3,8 @@
 <a href="https://www.instagram.com/vibhanshu.sharma.101/"> <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/> </a>
 <a href="https://www.linkedin.com/in/vibhanshu-sharma-b089b2164/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href="https://www.reddit.com/user/sharmavibhu101"><img src="https://img.icons8.com/fluent/48/000000/reddit.png"/></a>
-<a href="https://twitter.com/vibhanshu101"><img src="https://img.icons8.com/cute-clipart/64/000000/twitter.png"/></a>
+<a href="https://twitter.com/vibhanshu101"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <br />
-
 About me:
 
 - 🔭 I’m currently working at Powerplay as an Android Developer
@@ -13,8 +12,7 @@ About me:
 - 👯 I’m looking to collaborate on any Full Stack Projects or Android Projects.
 - 🤔 I’m looking for help with 😅.
 - 📫 How to reach me: Any of the platforms mentioned above. But if you want to contact me through my email: <a href="mailto:sharma.vibhu101@gmail.com">sharma.vibhu101@gmail.com</a>
-- ⚡ Fun fact: Sunsets on mars are blue<!-- - 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+- ⚡ Fun fact: Sunsets on mars are blue.
 
 <br/>
 
