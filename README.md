@@ -21,7 +21,7 @@ About me:
 <img align="left" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/kotlin.png"/>
-<img align ="left"src="https://img.icons8.com/officel/16/000000/java-eclipse.png"/>
+<img align="left" src="https://img.icons8.com/dusk/64/000000/java-coffee-cup-logo.png"/>
 
 
 <br/><br/>
