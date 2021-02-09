@@ -1,22 +1,35 @@
-###  Hello 👋, I'm Vibhanshu
+## Hi there, I'm Vibhanshu 👋
 
-<a href="https://twitter.com/vibhanshu101">
-  <img align="left" alt="Vibhanshu's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/vibhanshu-sharma-b089b2164/">
-  <img align="left" alt="Ayush's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+<a href="https://www.instagram.com/vibhanshu.sharma.101/"> <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/> </a>
+<a href="https://www.linkedin.com/in/vibhanshu-sharma-b089b2164/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href="https://www.reddit.com/user/sharmavibhu101"><img src="https://img.icons8.com/fluent/48/000000/reddit.png"/></a>
+<a href="https://twitter.com/vibhanshu101"><img src="https://img.icons8.com/cute-clipart/64/000000/twitter.png"/></a>
+<br />
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=vibhusharma101.vibhusharma101)
-[![GitHub followers](https://github.com/vibhusharma101?tab=followers)
+About me:
 
-#### Talking about Personal Stuffs!
+- 🔭 I’m currently working at Powerplay as an Android Developer
+- 🌱 I’m currently learning Javasript and Node.js
+- 👯 I’m looking to collaborate on any Full Stack Projects or Android Projects.
+- 🤔 I’m looking for help with 😅.
+- 📫 How to reach me: Any of the platforms mentioned above. But if you want to contact me through my email: <a href="mailto:sharma.vibhu101@gmail.com">sharma.vibhu101@gmail.com</a>
+- ⚡ Fun fact: Sunsets on mars are blue<!-- - 😄 Pronouns: ...
+- ⚡ Fun fact: ... -->
 
+<br/>
 
-- 🔭 I’m currently working at Powerplay as an Android Powerplay.
-- 📫 How to reach me: sharma.vibhu101@gmail.com
-- 😄 Pronouns: he/his/him
-- ⚡ Fun fact: Sunsets on Mars are blue.
+**Tools, Techniques and Languages I work with generally**
 
-</br>
-![Vibhanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vibhusharma101&hide=[%22issues%22,%22contribs%22]&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+<img align="left" src="https://img.icons8.com/color/48/000000/javascript.png"/>
+<img align="left" alt="Gatsby" src="https://i.imgur.com/SctOfpG.png" width=48/>
+<img align="left" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+<img align="left" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+
+<br/><br/>
+
+<p><i>Note: This is just a general breakdown, it doesn't reflect my strength or weaknesses.</i></p>
+<!-- Stats Dashboard -->
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=vibhusharma101&show_icons=true&theme=dracula&line_height=40">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=vibhusharma101&langs_count=11&hide=jupyter%20notebook,scss,html,css,shell&theme=dracula">
+</p>
