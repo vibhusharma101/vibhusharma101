@@ -22,6 +22,8 @@ About me:
 <img align="left" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/kotlin.png"/>
 <img align="left" src="https://img.icons8.com/dusk/64/000000/java-coffee-cup-logo.png"/>
+<img align="left" src="https://img.icons8.com/color/48/000000/flutter.png"/>
+<img align="left" src="https://img.icons8.com/fluent/48/000000/android-os.png"/>
 
 
 <br/><br/>
